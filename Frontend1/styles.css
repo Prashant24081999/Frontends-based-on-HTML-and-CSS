@@ -1,0 +1,46 @@
+.numbering{
+    border:1px solid #EEB500;
+    background-color:#EEB500;
+    color:white;
+    width: 8px;
+    padding: 12px;
+    font-size: 20px;
+}
+.subscribe_btn button {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 12px 170px;
+    position: relative;
+    left: 24px;
+    font-weight: bold;
+
+}
+.container{
+    width:1700px;
+    display: flex;
+    
+    
+}
+.card{
+    width:485px;
+    float:left;
+    height: 750px;
+    border:1px solid rgb(210, 216, 221);
+    margin:0 5px;
+   
+}
+ img{
+    width: 480px;
+    height: 450px;
+    margin: 5px;
+    
+}
+.card-content{
+    color:#4C4C4C;
+    margin:5px;
+}
+.card-content h2{
+    color:#0A5A78;
+    text-align: left;
+}
